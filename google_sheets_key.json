@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "eisenhowermatrix-453401",
+  "private_key_id": "cacbe127b36fce402e37199397ae7729afe56a95",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCacEF7kuaJkzxM\nyLPS7CJ0tHdgYFdYL6jw4szdGLHM1MGqWytZiNbSkzTgf41uyuFfUv+QC3SFMcnY\npHkagHNCRqHPto+GF6TCyALXafVaTFJDKgN5Q4y6aQLwBZXOn5EBHe+GaVYEwn/t\no9jIiDD7NRu08cMUEsyZXzFLDxWGXxL06O7fqMbu748oihuF8C7pR/SBCrTN0VcP\nU4aBKJRSQ084XZgodGwNlS8R/Si/xHlyB/6aSK392U8zsJJyLr7vtqtOTy0dXf9n\nTMckun/QabS1GmH/Ip1+S8pMmXBAdxoxopdnM2Gha/+Wvgd8Rt4g5x5yOzCaHnT3\njUjdWC/ZAgMBAAECggEAFUkAdXAfLvnodyq4QgtCinQu+cz9bM2QyrZvhs92/eSa\n1ohfNqVZ+kbIpGJgE1OJ8VHmoCs8AXmFuMKeYE0w1YMXnSGrsU8D6caYQak8ZBgd\nxFz/gpCRTkXX3k3ewk4StaUzFILjFJ/b8txArg67NXwx1+P0P4mBwmewywgGrvCn\nu9AJ60VYQPO/d0CivdFhQgxjDyoMqHPoYRoQmaET1kEG6j0m3CbxV3WPACbLXlnl\nV21FuXqxmboGIrjyoDRfCO25DCMCJg8pUm6ybYkDZ0p3RjDpE4wsMDCFnXiiZIZ6\n3ttapxm/FV8HztVL9mu7THK+iaPYIDWesfcuVXla+wKBgQDN8cASktjVObCa1153\na6si4Hpj8G3kHWQznsQuZJJgmWM39M3W5U/LAFFjLH6IHV9tEBs9LtVxSro5vYiU\nvoZbzSbe4D+Va2BWoVRutZryoBOOLc2myN7k59Yyf7tzOr+8Q8L7NeXhv8l83CsA\nE4U7WTgqqmrBTd3nqFOS+RfJRwKBgQC/+bbG69xUN3pRt+v/v4PO9Y355Zff4WZM\nb67Tl7plVvxQl6ox/5+l7e962KW17eedbaB7kEEyZkvwaVQ8wjYly1FDLFHga0+g\nw5a9PYa37yrmC7kTV8lDJ/nUHMjn3EUCbm1HIARURhNy51LTYZDwGzh0ULIZ5s8P\nCwJvV/7N3wKBgGPac2aODNRVxGtPQV5ltfSTIsSSLrYMCil9MWHNIav0s0bOS3+G\nb8ndvZh4WmFk3H/k71AbBSKJOQIGA9MbDco1DkPCNxIbnfpi/q0vIJHDS7gEPVJA\n0tHqFtElXZ3hPlXqBQAIgg2TD/6aQb8nt9Gu0KzfNCPFvXI1C1CXthDBAoGAL2qD\nHZDGA7sMKEDwNmPcL3LxFUcDAxYOCVUQbkysijk46sL7E4xap0Ykf0ghbdUL/xND\nryFLKSKhIQky+CrT6vPT52577p0ytrd4dNdMfgPBqb49gSyOllq6VwyhBrueA+K4\ndPfQeewxA5FlILaZcOSYRgpkYwdiHwoOGOg4FCsCgYB1b32JiMJ6dVFs1SkB4Kjm\nKyrW4EgtBP14vqvGb0GyeUmUcmWOUo7Eqrlmj4opdIyEhb34viaeCeGWrHA0yfIG\nTULL+xkCrk3lQ5PIT3Q4tAiUENrVhqPxnQ9ItQAuaVqKA7Mqv277KNeR+dNS3mNU\nxD/+UUVPa28dtj5YmfM+cw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "eisenhower-matrix-app@eisenhowermatrix-453401.iam.gserviceaccount.com",
+  "client_id": "104571018438589450989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/eisenhower-matrix-app%40eisenhowermatrix-453401.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
